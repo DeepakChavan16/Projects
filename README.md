@@ -1,2 +1,18 @@
-# Projects
-This repository showcases my engineering projects and technical experiments across embedded systems, IoT, automotive technology, microcontrollers, sensors, and software development. Each project reflects practical learning, problem-solving, experimentation, and continuous improvement.
+# Go-Kart Telemetry System
+
+A real-time telemetry monitoring system for a Go-Kart using ESP32 and Flutter.
+
+## Features
+- Engine RPM monitoring
+- Vehicle speed measurement
+- Engine temperature monitoring
+- Fuel level monitoring
+- GPS and IMU sensor data
+- Flutter telemetry dashboard
+
+## Technologies
+- ESP32
+- Arduino IDE
+- Flutter
+- Dart
+- Sensors and embedded systems

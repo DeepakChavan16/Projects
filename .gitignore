@@ -1,0 +1,17 @@
+# Flutter generated files
+**/.dart_tool/
+**/build/
+**/.firebase/
+**/.kotlin/
+**/expanded_render/
+**/pdf_render/
+
+# IDE and generated files
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example

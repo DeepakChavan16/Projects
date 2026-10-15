@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "188818931007",
+    "firebase_url": "https://fkdc-telemetry-system-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fkdc-telemetry-system",
+    "storage_bucket": "fkdc-telemetry-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188818931007:android:4145fc3bd527277055e78a",
+        "android_client_info": {
+          "package_name": "com.example.fkdc_dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAedJ3FUsjv6NVTtB0t6Zex9iqq8dBoE1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
